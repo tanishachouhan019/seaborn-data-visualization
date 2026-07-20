@@ -104,10 +104,6 @@ This repository includes practical assignments on:
 ├── Day-02
 ├── Day-03
 ├── Day-04
-├── Day-05
-├── Day-06
-├── Day-07
-├── Day-08
 ├── Assignments
 ├── Practice
 └── README.md
@@ -124,34 +120,6 @@ This repository includes practical assignments on:
 - Dashboard Thinking
 - Python Programming
 - Analytical Thinking
-
----
-
-# 🚀 How to Run
-
-Clone the repository
-
-```bash
-git clone https://github.com/yourusername/Seaborn-Learning.git
-```
-
-Move into the project
-
-```bash
-cd Seaborn-Learning
-```
-
-Install dependencies
-
-```bash
-pip install seaborn matplotlib pandas numpy
-```
-
-Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
 
 ---
 
